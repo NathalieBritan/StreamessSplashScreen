@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Streamess</string>
+
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="or_signup">or SIGN UP</string>
+    <string name="or_login">or LOGIN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="login">LOGIN</string>
+    <string name="full_name">Full Name</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="forgot_password">Forgot password?</string>
+</resources>
